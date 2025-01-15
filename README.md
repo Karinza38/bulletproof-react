@@ -1,4 +1,4 @@
-# Bulletproof React 🛡️ ⚛️
+ # Bulletproof React 🛡️ ⚛️
 
 [![MIT License](https://img.shields.io/github/license/alan2207/bulletproof-react)](https://github.com/alan2207/bulletproof-react/blob/master/LICENSE)
 [![CI](https://github.com/alan2207/bulletproof-react/actions/workflows/ci.yml/badge.svg)](https://github.com/alan2207/bulletproof-react/actions/workflows/ci.yml)
